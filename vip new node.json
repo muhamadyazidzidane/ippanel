@@ -10,7 +10,7 @@
     "description": "egg nodejs pterodactyl nodejs v18, auto install speedtest, ffmpeg, imagemagick",
     "features": null,
     "docker_images": {
-        "NODEJS 14 NEW": "ghcr.io\/amiruldev20\/vip:14",
+        "NODEJS 15 NEW": "ghcr.io\/amiruldev20\/vip:15",
         "NODEJS 16 NEW": "ghcr.io\/amiruldev20\/vip:16",
         "NODEJS 18 NEW": "ghcr.io\/amiruldev20\/vip:18"
     },
